@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-size: 15rem;
+  margin: 5rem 17rem;
+}
